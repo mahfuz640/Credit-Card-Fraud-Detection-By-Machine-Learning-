@@ -1,7 +1,4 @@
 # Credit-Card-Fraud-Detection-By-Machine-Learning-
-Here is the English version:
-
----
 
 We first downloaded the **Credit Card Fraud Detection** dataset (`creditcardfraud.zip`) from Kaggle, extracted it, and loaded the `creditcard.csv` file for analysis.
 
